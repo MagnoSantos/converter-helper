@@ -23,6 +23,7 @@
 
   <ItemGroup>
     <ProjectReference Include="..\Converter.InterfaceType\Converter.InterfaceType.csproj" />
+    <ProjectReference Include="..\Pattern.Builder\Pattern.Builder.csproj" />
   </ItemGroup>
 
 </Project>
