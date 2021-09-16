@@ -1,6 +1,6 @@
 using AutoFixture;
+using Converter.Domain.Entitties;
 using Converter.InterfaceType.Converter;
-using Converter.InterfaceType.Entities;
 using FluentAssertions;
 using Xunit;
 

@@ -1,4 +1,4 @@
-﻿using Converter.InterfaceType.Entities;
+﻿using Converter.Domain.Entitties;
 using System;
 
 namespace Converter.InterfaceType.Converter

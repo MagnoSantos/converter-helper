@@ -1,4 +1,4 @@
-﻿namespace Converter.InterfaceType.Entities
+﻿namespace Converter.Domain.Entitties
 {
     public class CustomerDto
     {

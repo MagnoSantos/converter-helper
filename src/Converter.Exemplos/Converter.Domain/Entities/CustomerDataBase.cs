@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace Converter.InterfaceType.Entities
+namespace Converter.Domain.Entitties
 {
     public class CustomerDataBase : BaseDataBase
     {
