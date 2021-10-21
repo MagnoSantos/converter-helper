@@ -1,4 +1,4 @@
-# Repositório Converter Helper
+# Repositório Patterns Helper
 
 ## Features
 - Conversão de duas entidades através das abstrações IOneWayConverter e/ou ITwoWayConverter
